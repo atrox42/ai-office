@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T21:44:38+09:00",
+  "updated_at": "2026-10-18T21:54:31+09:00",
   "free_model_jobs_today": 4,
   "revenue": {
     "youtube": 0,
@@ -102,10 +102,10 @@
     "art_insta": {
       "name": "아트 인스타그램",
       "role": "아트 인스타 운영",
-      "status": "idle",
-      "task": "",
+      "status": "working",
+      "task": "샘플 릴스 재제작: 일러스트 비중↑, 자연스러운 동작, 17~18초",
       "outputs": [],
-      "updated_at": "2026-10-18T21:44:38+09:00",
+      "updated_at": "2026-10-18T21:54:31+09:00",
       "grok_tokens_today": 0
     },
     "taegye": {
