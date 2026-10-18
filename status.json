@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T21:40:07+09:00",
+  "updated_at": "2026-10-18T21:42:44+09:00",
   "free_model_jobs_today": 4,
   "revenue": {
     "youtube": 0,
@@ -11,7 +11,7 @@
   "channels": {
     "youtube": {
       "label": "유튜브",
-      "shorts_today": 3,
+      "shorts_today": 4,
       "posts_today": 0
     },
     "blog": {
@@ -78,7 +78,7 @@
       "status": "idle",
       "task": "",
       "outputs": [],
-      "updated_at": "2026-10-18T21:10:00+09:00",
+      "updated_at": "2026-10-18T21:42:44+09:00",
       "grok_tokens_today": 0
     },
     "threads_coupang": {
