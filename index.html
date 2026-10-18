@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI 오피스 · 자동화 군단 본부</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- LOGIN -->
+  <div id="login-screen" class="screen">
+    <div class="login-card">
+      <div class="login-logo" aria-hidden="true">
+        <svg width="64" height="64" viewBox="0 0 64 64">
+          <rect width="64" height="64" rx="12" fill="#1a1f2e"/>
+          <rect x="8" y="8" width="48" height="48" rx="8" fill="#0d1117" stroke="#62F0C8" stroke-width="2"/>
+          <rect x="18" y="22" width="10" height="10" fill="#62F0C8"/>
+          <rect x="36" y="22" width="10" height="10" fill="#62F0C8"/>
+          <rect x="22" y="38" width="20" height="6" fill="#62F0C8"/>
+        </svg>
+      </div>
+      <h1>AI 오피스</h1>
+      <p class="login-sub">자동화 군단 본부 · 토큰 최소화</p>
+      <button type="button" id="btn-chatgpt-login" class="btn-chatgpt">
+        <span class="gpt-mark">◎</span> ChatGPT로 로그인
+      </button>
+      <p class="login-hint">데모 모드 · OAuth 미설정 시 바로 입장</p>
+    </div>
+  </div>
+
+  <!-- OFFICE -->
+  <div id="office-screen" class="screen hidden">
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-dot"></span>
+        <strong>AI 오피스</strong>
+        <span class="brand-sub">자동화 군단</span>
+      </div>
+      <div class="stats" id="top-stats">
+        <span class="stat working"><i></i> 일하는 중 <b id="stat-working">0</b></span>
+        <span class="stat idle"><i></i> 쉬는 중 <b id="stat-idle">0</b></span>
+        <span class="stat free"><i></i> 무료모델 작업 <b id="stat-free">0</b></span>
+      </div>
+      <button type="button" id="btn-logout" class="btn-ghost">로그아웃</button>
+    </header>
+
+    <section class="channel-bar" id="channel-bar" aria-label="채널 현황">
+      <!-- filled by app.js -->
+    </section>
+
+    <main class="main">
+      <div class="office-wrap">
+        <div class="office" id="office" aria-label="사무실">
+          <!-- floor tiles + desks drawn in JS/CSS -->
+          <div class="floor" id="floor"></div>
+          <div class="wall-board" id="wall-board">
+            <div class="board-title">📋 업무 보드판</div>
+            <div class="kanban" id="kanban">
+              <div class="kcol" data-col="todo"><h3>할 일</h3><div class="kcards"></div></div>
+              <div class="kcol" data-col="doing"><h3>진행 중</h3><div class="kcards"></div></div>
+              <div class="kcol" data-col="review"><h3>검토 대기</h3><div class="kcards"></div></div>
+              <div class="kcol" data-col="done"><h3>완료</h3><div class="kcards"></div></div>
+            </div>
+          </div>
+          <div class="desks" id="desks"></div>
+          <div class="plant plant-1" title="화분"></div>
+          <div class="plant plant-2" title="화분"></div>
+          <div class="plant plant-3" title="화분"></div>
+        </div>
+      </div>
+
+      <aside class="panel" id="panel" aria-hidden="true">
+        <button type="button" class="panel-close" id="panel-close" aria-label="닫기">×</button>
+        <div id="panel-body">
+          <p class="panel-empty">일꾼을 클릭하면<br/>상세 정보가 보여요</p>
+        </div>
+      </aside>
+    </main>
+
+    <footer class="footer">
+      <span>status.json · board.json 5초마다 갱신 · LLM 호출 없음</span>
+      <span id="last-refresh"></span>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

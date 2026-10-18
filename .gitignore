@@ -1,0 +1,6 @@
+logs/
+shots/
+SPEC.md
+server.py
+*.log
+__pycache__/

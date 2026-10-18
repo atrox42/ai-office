@@ -1,0 +1,8 @@
+{
+  "openai_oauth": {
+    "client_id": "",
+    "client_secret": "",
+    "redirect_uri": "",
+    "auth_url": "https://auth.openai.com/oauth/authorize"
+  }
+}

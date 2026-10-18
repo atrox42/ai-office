@@ -1,0 +1,121 @@
+{
+  "updated_at": "2026-10-18T21:31:36+09:00",
+  "free_model_jobs_today": 4,
+  "revenue": {
+    "youtube": 0,
+    "blog": 0,
+    "coupang": 0,
+    "other": 0,
+    "note": "수동 입력"
+  },
+  "channels": {
+    "youtube": {
+      "label": "유튜브",
+      "shorts_today": 3,
+      "posts_today": 0
+    },
+    "blog": {
+      "label": "블로그",
+      "shorts_today": 0,
+      "posts_today": 2
+    },
+    "threads": {
+      "label": "스레드",
+      "shorts_today": 0,
+      "posts_today": 0
+    },
+    "insta": {
+      "label": "인스타",
+      "shorts_today": 0,
+      "posts_today": 0
+    },
+    "art_insta": {
+      "label": "아트인스타",
+      "shorts_today": 0,
+      "posts_today": 0
+    }
+  },
+  "workers": {
+    "leader": {
+      "name": "팀장",
+      "role": "일을 나눠주고 막힌 문제 해결",
+      "status": "idle",
+      "task": "",
+      "outputs": [],
+      "updated_at": "2026-10-18T21:10:00+09:00",
+      "grok_tokens_today": 0
+    },
+    "planner": {
+      "name": "기획자",
+      "role": "바이럴 콘텐츠 분석·기획",
+      "status": "idle",
+      "task": "",
+      "outputs": [],
+      "updated_at": "2026-10-18T21:24:30+09:00",
+      "grok_tokens_today": 0
+    },
+    "marketer": {
+      "name": "마케터",
+      "role": "수익화, 업로드, 댓글·DM",
+      "status": "idle",
+      "task": "",
+      "outputs": [],
+      "updated_at": "2026-10-18T21:10:00+09:00",
+      "grok_tokens_today": 0
+    },
+    "naver_blog": {
+      "name": "블로그 자동발행",
+      "role": "네이버 블로그 자동 포스팅",
+      "status": "working",
+      "task": "acgwang 22:00 · dahye4270 23:00 발행 예약 완료, 발행 확인 대기",
+      "outputs": [],
+      "updated_at": "2026-10-18T21:29:14+09:00",
+      "grok_tokens_today": 0
+    },
+    "youtube": {
+      "name": "유튜브 자동발행",
+      "role": "쇼츠·영상 자동 업로드",
+      "status": "idle",
+      "task": "",
+      "outputs": [],
+      "updated_at": "2026-10-18T21:10:00+09:00",
+      "grok_tokens_today": 0
+    },
+    "threads_coupang": {
+      "name": "스레드 쿠팡파트너스",
+      "role": "스레드 쿠팡 제휴 콘텐츠",
+      "status": "idle",
+      "task": "",
+      "outputs": [],
+      "updated_at": "2026-10-18T21:10:00+09:00",
+      "grok_tokens_today": 0
+    },
+    "insta_coupang": {
+      "name": "인스타 쿠팡파트너스",
+      "role": "인스타 쿠팡 제휴 콘텐츠",
+      "status": "idle",
+      "task": "",
+      "outputs": [],
+      "updated_at": "2026-10-18T21:10:00+09:00",
+      "grok_tokens_today": 0
+    },
+    "art_insta": {
+      "name": "아트 인스타그램",
+      "role": "아트 인스타 운영",
+      "status": "idle",
+      "task": "",
+      "outputs": [],
+      "updated_at": "2026-10-18T21:31:36+09:00",
+      "grok_tokens_today": 0
+    },
+    "taegye": {
+      "name": "태계",
+      "role": "태계 자동화",
+      "status": "idle",
+      "task": "",
+      "outputs": [],
+      "updated_at": "2026-10-18T21:10:00+09:00",
+      "grok_tokens_today": 0
+    }
+  }
+}
