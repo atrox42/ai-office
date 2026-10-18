@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T22:05:10+09:00",
+  "updated_at": "2026-10-19T01:32:53+09:00",
   "free_model_jobs_today": 4,
   "revenue": {
     "youtube": 0,
@@ -102,10 +102,10 @@
     "art_insta": {
       "name": "아트 인스타그램",
       "role": "아트 인스타 운영",
-      "status": "working",
-      "task": "인스타 @reamd.tra 계정 가입 중",
+      "status": "idle",
+      "task": "",
       "outputs": [],
-      "updated_at": "2026-10-18T22:05:10+09:00",
+      "updated_at": "2026-10-19T01:32:53+09:00",
       "grok_tokens_today": 0
     },
     "taegye": {
