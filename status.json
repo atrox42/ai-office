@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T08:36:37+09:00",
+  "updated_at": "2026-10-19T08:51:58+09:00",
   "free_model_jobs_today": 4,
   "revenue": {
     "youtube": 0,
@@ -75,10 +75,10 @@
     "youtube": {
       "name": "유튜브 자동발행",
       "role": "쇼츠·영상 자동 업로드",
-      "status": "working",
-      "task": "오전 배치",
+      "status": "idle",
+      "task": "",
       "outputs": [],
-      "updated_at": "2026-10-19T08:19:01+09:00",
+      "updated_at": "2026-10-19T08:51:58+09:00",
       "grok_tokens_today": 0
     },
     "threads_coupang": {
