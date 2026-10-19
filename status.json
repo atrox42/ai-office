@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-19T20:39:42+09:00",
+  "updated_at": "2026-10-19T21:01:55+09:00",
   "free_model_jobs_today": 4,
   "revenue": {
     "youtube": 0,
-    "blog": 0,
+    "blog": 336,
     "coupang": 0,
     "other": 0,
-    "note": "수동 입력"
+    "note": "블로그자동"
   },
   "channels": {
     "youtube": {
