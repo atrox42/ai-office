@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T18:27:05+09:00",
+  "updated_at": "2026-10-19T20:39:42+09:00",
   "free_model_jobs_today": 4,
   "revenue": {
     "youtube": 0,
@@ -87,7 +87,7 @@
       "status": "idle",
       "task": "",
       "outputs": [],
-      "updated_at": "2026-10-19T17:09:10+09:00",
+      "updated_at": "2026-10-19T20:39:42+09:00",
       "grok_tokens_today": 0
     },
     "insta_coupang": {
