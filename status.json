@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T17:09:10+09:00",
+  "updated_at": "2026-10-19T18:22:57+09:00",
   "free_model_jobs_today": 4,
   "revenue": {
     "youtube": 0,
@@ -93,10 +93,10 @@
     "insta_coupang": {
       "name": "인스타 쿠팡파트너스",
       "role": "인스타 쿠팡 제휴 콘텐츠",
-      "status": "idle",
-      "task": "",
+      "status": "working",
+      "task": "18시 카드뉴스(에어로치노4) 업로드",
       "outputs": [],
-      "updated_at": "2026-10-19T17:07:32+09:00",
+      "updated_at": "2026-10-19T18:22:57+09:00",
       "grok_tokens_today": 0
     },
     "art_insta": {
