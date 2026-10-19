@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T12:59:32+09:00",
+  "updated_at": "2026-10-19T17:01:44+09:00",
   "free_model_jobs_today": 4,
   "revenue": {
     "youtube": 0,
@@ -84,19 +84,19 @@
     "threads_coupang": {
       "name": "스레드 쿠팡파트너스",
       "role": "스레드 쿠팡 제휴 콘텐츠",
-      "status": "idle",
-      "task": "",
+      "status": "working",
+      "task": "16:56 꿀템 영상 글 준비",
       "outputs": [],
-      "updated_at": "2026-10-19T12:59:32+09:00",
+      "updated_at": "2026-10-19T17:01:03+09:00",
       "grok_tokens_today": 0
     },
     "insta_coupang": {
       "name": "인스타 쿠팡파트너스",
       "role": "인스타 쿠팡 제휴 콘텐츠",
-      "status": "idle",
-      "task": "",
+      "status": "working",
+      "task": "17:00 릴스 업로드",
       "outputs": [],
-      "updated_at": "2026-10-19T08:25:00+09:00",
+      "updated_at": "2026-10-19T17:01:44+09:00",
       "grok_tokens_today": 0
     },
     "art_insta": {
