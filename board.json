@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T01:32:53+09:00",
+  "updated_at": "2026-10-20T17:25:09+09:00",
   "columns": {
     "todo": [],
     "doing": [],
@@ -13,6 +13,12 @@
       {
         "id": "c-92c512ab",
         "title": "인스타 @reamd.tra 셀카 인증 필요(규석 님)",
+        "worker": "art_insta",
+        "link": ""
+      },
+      {
+        "id": "c-07e40cb3",
+        "title": "진홍·금 장식화풍 릴스 샘플(20초, 6컷)",
         "worker": "art_insta",
         "link": ""
       }
