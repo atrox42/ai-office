@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T22:02:39+09:00",
+  "updated_at": "2026-10-24T22:16:15+09:00",
   "free_model_jobs_today": 4,
   "revenue": {
     "youtube": 0,
@@ -93,10 +93,10 @@
     "insta_coupang": {
       "name": "인스타 쿠팡파트너스",
       "role": "인스타 쿠팡 제휴 콘텐츠",
-      "status": "working",
-      "task": "10/25 숏폼 시안 제작",
+      "status": "idle",
+      "task": "",
       "outputs": [],
-      "updated_at": "2026-10-24T22:02:39+09:00",
+      "updated_at": "2026-10-24T22:16:15+09:00",
       "grok_tokens_today": 0
     },
     "art_insta": {
