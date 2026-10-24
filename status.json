@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T22:16:15+09:00",
+  "updated_at": "2026-10-24T22:22:48+09:00",
   "free_model_jobs_today": 4,
   "revenue": {
     "youtube": 0,
@@ -22,7 +22,7 @@
     "threads": {
       "label": "스레드",
       "shorts_today": 0,
-      "posts_today": 2
+      "posts_today": 1
     },
     "insta": {
       "label": "인스타",
@@ -87,7 +87,7 @@
       "status": "idle",
       "task": "",
       "outputs": [],
-      "updated_at": "2026-10-21T17:04:32+09:00",
+      "updated_at": "2026-10-24T22:22:48+09:00",
       "grok_tokens_today": 0
     },
     "insta_coupang": {
